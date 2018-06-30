@@ -1,0 +1,6 @@
+{
+  "temperature": {{temperature}},
+  "humidity": {{humidity}},
+  "rainDrops": "{{rainDrops}}",
+  "drying": "{{drying}}"
+}
